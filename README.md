@@ -39,7 +39,7 @@ then copy the token.
 ```
 ## Replit
 For Replit [Click Here](https://replit.com/github/KaramveerMalhotra/Discord-Nuke-Bot)
-If You Are Not Using Replit Remove #.replit File
+If You Are Not Using Replit Then Remove #.replit File
 
 - For 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞
 
